@@ -1,0 +1,33 @@
+            Execution intructions for my library management system 
+
+
+##   if my app crashes with an error like module not found or any thing i 
+should install"" pip install psycopg2-binary""
+
+####################  to run my app follow the commands incase if i forgot ##############################
+
+    the command is  "" python -m uvicorn app.main:app --reload ""
+
+
+### no need from scarch to run just open database the ensure everything is connected ###########
+ 
+                     #  then run the commands #
+       
+       After you make changes commands to add in git
+
+first check git status --- check the status wht is present in current git repo
+
+git add .  --- to add all the changes in the staging area.
+
+git commit -m "message"  --- to commit the changes with a message
+
+git push origin main  --- to push the changes to the remote repository on the main branch
+
+
+############# to run my etl file#######################
+           process to run my ETL file
+    cd ETL
+    python main.py
+
+
+
